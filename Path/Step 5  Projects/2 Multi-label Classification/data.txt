@@ -1,0 +1,2 @@
+Dataset page: http://www.cs.cmu.edu/~ark/personas/
+Download link: http://www.cs.cmu.edu/~ark/personas/data/MovieSummaries.tar.gz
